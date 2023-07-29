@@ -8,3 +8,6 @@
 `SANCTUM_STATEFUL_DOMAINS=localhost:3000`
 <br>
 `SESSION_DOMAIN=localhost`
+<br>
+
+`php artisan migrate:fresh --seed`
