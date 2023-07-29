@@ -11,3 +11,4 @@
 <br>
 
 `php artisan migrate:fresh --seed`
+### Default account is juandelacruz@email.com:secret
