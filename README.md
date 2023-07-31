@@ -1,4 +1,4 @@
-
+# Simple Expense Tracker
 ## Exam by Jeremy Aliparo
 
 `APP_URL=http://localhost:8000`
